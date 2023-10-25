@@ -13,13 +13,6 @@ import javax.persistence.*;
 @Entity
 @Table(name = "period")
 public class EmailSending {
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
  @Id
  @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;

@@ -1,12 +1,12 @@
 .nav_container{
-    display: flex;
-    width: 80%;
-    margin: 0px auto;
-    gap: 2%;
-    align-items: center;
-    cursor: pointer;
-    background-color: rgb(133, 185, 217);
-    border-radius: 40px;
+        display: flex;
+        width: 80%;
+        margin: 0px auto;
+        gap: 2%;
+        align-items: center;
+        cursor: pointer;
+        background-color: rgb(133, 185, 217);
+        border-radius: 40px;
 }
 .image-profile{
     border-radius: 50%;

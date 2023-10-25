@@ -1,7 +1,7 @@
 .table_container{
  display: flex;
  justify-content: center;
- padding-top: 10%;
+ padding-top: 5%;
 }
 .table{
     width: 80%;
@@ -38,5 +38,20 @@ td{
     max-width: 600px;
     min-width: 300px;
     padding: 2%;
-
+}
+body{
+    background-image: linear-gradient(white,rgb(157, 211, 227));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 52vw;
+}
+.title{
+    /* display: flex; */
+    width: 80%;
+    margin: 0px auto;
+    /* gap: 2%; */
+    align-items: center;
+    /* cursor: pointer; */
+    /* background-color: rgb(133, 185, 217); */
+    /* border-radius: 40px; */
 }
